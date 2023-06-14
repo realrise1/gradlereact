@@ -1,5 +1,6 @@
 # gradlereact
 # springboot , gradle , java17, mysql8, react
+# mysql workbench8 설치
 # react 설치
 > cd src/main 해서
 > 
